@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SmartShop</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_shopping_lists">SmartShop Listy</string>
+    <string name="title_activity_receipts_list">Paragony</string>
+    <string name="title_activity_shopping_list">SmartShop Lista</string>
+    <string name="title_activity_list_creation">Nowa Lista</string>
+    <string name="newList_name">Nazwa listy</string>
+    <string name="title_activity_receipt_creation">Nowy Paragon</string>
+    <string name="addNewListBtn">Nowa Lista</string>
+    <string name="title_activity_activity_shopping_lists2">Test</string>
+    <string name="title_activity_receipt_details">Szczegóły paragonu</string>
+    <string name="title_activity_receipt_add_lines">ReceiptAddLinesActivity</string>
+
+</resources>
